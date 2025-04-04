@@ -2,6 +2,7 @@
 일정 관리 프로젝트 입니다.
 
 Json API: ./Schedule.postman_collection.json
+
 ERD Cloud: https://www.erdcloud.com/d/ZCzLacgjS5MMoxrHD
 
 # 과제 셜명
